@@ -6,7 +6,6 @@
 
 </div>
 
-<div id=education">
 
 <div class="edu_block">
 
@@ -16,5 +15,3 @@
 <h4 class="results">CGPA: 7.5</h4>
 </div>	
 
-
-</div>
