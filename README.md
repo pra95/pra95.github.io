@@ -9,7 +9,7 @@
 </div>
 
 
-<div class="edu_block" style="background-color: blue;border-style: solid;">
+<div class="edu_block" style="border-style: solid;">
 
 <h3 class="institute_name">FRCRIT</h3>	
 <h4 class="duration">2013-2018</h4>
