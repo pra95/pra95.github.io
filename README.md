@@ -1,9 +1,5 @@
 # Profile Info
-<style>
-body {background-color: powderblue;}
-h1   {color: blue;}
-p    {color: red;}
-</style>
+
 
 <div>
 <h1>Prashant Degaonkar</h1>
@@ -13,7 +9,7 @@ p    {color: red;}
 </div>
 
 
-<div class="edu_block">
+<div class="edu_block" style="background-color: blue;">
 
 <h3 class="institute_name">FRCRIT</h3>	
 <h4 class="duration">2013-2018</h4>
